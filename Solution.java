@@ -18,6 +18,9 @@ class ListNode {
     }
 }
 
+
+
+
 public class Solution {
     // 删除链表中的所有元素
     public ListNode removeElements(ListNode head, int val) {
